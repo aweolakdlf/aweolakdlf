@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kim%20Ki-Hyun)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ki-Hyun%20Kim)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=003E7E&center=true&vCenter=true&width=435&lines=SOPHORMORE)](https://git.io/typing-svg)
 
 kap3851@yu.ac.kr
